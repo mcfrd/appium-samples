@@ -24,3 +24,6 @@ hs_err_pid*
 
 # IDE
 *.iml
+
+# NPM
+package-lock.json
